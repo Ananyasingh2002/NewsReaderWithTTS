@@ -14,13 +14,13 @@ Before using this application, make sure you have the following modules installe
 
 - **tkinter**: The standard GUI library for Python. It's usually included with Python installations.
 
-- **requests**: A module used for making HTTP requests and fetching news data from the API. Install it with: pip install requests
+- **requests**: A module used for making HTTP requests and fetching news data from the API. Install it with: `pip install requests`
 
-- **pyttsx3**: A text-to-speech library that allows the application to read out news content. Install it with: pip install pyttsx3
+- **pyttsx3**: A text-to-speech library that allows the application to read out news content. Install it with: `pip install pyttsx3`
 
-- If you're using Windows, you might also need the `pywin32` module. Install it with: pip install pywin32
+- If you're using Windows, you might also need the `pywin32` module. Install it with: `pip install pywin32`
 
-- **playsound**: A module used to play audio files. Install it with: pip install playsound
+- **playsound**: A module used to play audio files. Install it with: `pip install playsound`
 
 
 ## Getting Started
