@@ -1,5 +1,7 @@
 # NewsReaderWithTTS
 
+![NewsReaderWithTTS](images/Screenshot-1.png)
+
 Welcome to the News Reader App! This simple application allows you to fetch and read news articles from a variety of sources using the [News API](https://newsapi.org/). The app is built using Python and the tkinter library for the graphical user interface.
 
 ## Features
@@ -34,6 +36,13 @@ Before using this application, make sure you have the following modules installe
 4. Enter your news interest keywords and click the "Fetch News" button to see the fetched news articles.
 
 5. Use the "Read News Aloud" button to hear the news content read out loud using text-to-speech.
+
+## Screenshots
+
+![News](images/Screenshot-2.png)
+
+
+-------
 
 Feel free to explore and modify the code according to your needs. If you encounter any issues or have suggestions, please feel free to open an issue on this repository.
 
